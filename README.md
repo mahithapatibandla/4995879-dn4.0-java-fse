@@ -1,7 +1,10 @@
-Superset ID: 4991296
-Name: Mahitha Patibandla
-Email: 2200030133cseh@gmail.com
-University: K L University
+
+# Cognizant DN 4.0 - Java FSE Deep Skilling
+
+**Superset ID**: 4995879  
+**Name**: Patibandla Mahitha 
+**Email**: [2200030133cseh@gmail.com](mailto:2200030133cseh@gmail.com)  
+**University**: K L University
 
 This repository contains weekly hands-on implementations as part of the Cognizant Digital Nurture 4.0 program under the Java Full Stack Engineer (FSE) track.
 
