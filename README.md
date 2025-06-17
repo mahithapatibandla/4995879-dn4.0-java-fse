@@ -20,6 +20,7 @@ This repository contains weekly hands-on implementations as part of the Cognizan
 | 8    | Git, CI/CD, DevOps, Docker, GenAI             | ⬜️ Not Started |
 
 📌 Guidelines
+
 Weekly work is maintained in separate folders with respective code and README files.
 
 Each task is committed with clear and meaningful commit messages.
